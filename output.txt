@@ -1,0 +1,68 @@
+Preprocessor Directive: #include <stdio.h>
+Keyword: int
+Keyword: main
+Special Character: (
+Special Character: )
+Special Character: {
+Keyword: int
+Identifier: x
+Operator: =
+Integer: 10
+Special Character: ;
+Keyword: float
+Identifier: y
+Operator: =
+Float: 3.14
+Special Character: ;
+Keyword: for
+Special Character: (
+Keyword: int
+Identifier: i
+Operator: =
+Integer: 0
+Special Character: ;
+Identifier: i
+Operator: <
+Integer: 5
+Special Character: ;
+Identifier: i
+Operator: ++
+Special Character: )
+Special Character: {
+Keyword: printf
+Special Character: (
+String Constant: "Hello, world!\n"
+Special Character: )
+Special Character: ;
+Special Character: }
+Keyword: char
+Identifier: c
+Operator: =
+Character Constant: 'c'
+Special Character: ;
+Keyword: int
+Identifier: a
+Operator: =
+Integer: 5
+Special Character: ,
+Identifier: b
+Operator: =
+Integer: 5
+Special Character: ;
+Keyword: if
+Special Character: (
+Identifier: a
+Operator: ==
+Identifier: b
+Special Character: )
+Special Character: {
+Keyword: printf
+Special Character: (
+String Constant: "a and b are equal\n"
+Special Character: )
+Special Character: ;
+Special Character: }
+Keyword: return
+Integer: 0
+Special Character: ;
+Special Character: }
